@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<districts>
+
+<fma>
+	<capacity>60</capacity>
+	<dcmp_code>mrcmp</dcmp_code>
+	<cmp_slots>18</cmp_slots>
+	<award_slots>
+		<chairmans>2</chairmans>
+		<ei>2</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+			<team>frc341</team>
+			<team>frc365</team>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+        </waitlist>
+	</prequalified_teams>
+</fma>
+
+<ne>
+	<capacity>64</capacity>
+	<dcmp_code>necmp</dcmp_code>
+	<cmp_slots>33</cmp_slots>
+	<award_slots>
+		<chairmans>4</chairmans>
+		<ei>2</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+			<team>frc236</team>
+            <team>frc175</team>
+            <team>frc23</team>
+            <team>frc151</team>
+		</hof>
+        <oas>
+            <team>frc126</team>
+            <team>frc157</team>
+            <team>frc190</team>
+        </oas>
+		<ood>
+            <team>frc195</team>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+        </waitlist>
+	</prequalified_teams>
+</ne>
+
+<chs>
+	<capacity>60</capacity>
+	<dcmp_code>chcmp</dcmp_code>
+	<cmp_slots>21</cmp_slots>
+	<award_slots>
+		<chairmans>2</chairmans>
+		<ei>2</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+            <team>frc5724</team>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+            <team>frc1086</team> 
+        </waitlist>
+	</prequalified_teams>
+</chs>
+
+<fin>
+	<capacity>32</capacity>
+	<dcmp_code>incmp</dcmp_code>
+	<cmp_slots>8</cmp_slots>
+	<award_slots>
+		<chairmans>1</chairmans>
+		<ei>2</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+            <team>frc5484</team>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+	        <team>frc1741</team>
+        </waitlist>
+	</prequalified_teams>
+</fin>
+
+<fnc>
+	<capacity>32</capacity>
+	<dcmp_code>nccmp</dcmp_code>
+	<cmp_slots>10</cmp_slots>
+	<award_slots>
+		<chairmans>1</chairmans>
+		<ei>2</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+        </waitlist>
+	</prequalified_teams>
+</fnc>
+
+<pch>
+	<capacity>45</capacity>
+	<dcmp_code>gacmp</dcmp_code>
+	<cmp_slots>17</cmp_slots>
+	<award_slots>
+		<chairmans>2</chairmans>
+		<ei>2</ei>
+		<ras>2</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+	<team>frc1311</team>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+            <team>frc1683</team>
+            <team>frc3998</team>
+            <team>frc5332</team>
+            <team>frc5900</team>
+        </waitlist>
+	</prequalified_teams>
+</pch>
+
+<pnw>
+	<capacity>50</capacity>
+	<dcmp_code>pncmp</dcmp_code>
+	<cmp_slots>18</cmp_slots>
+	<award_slots>
+		<chairmans>2</chairmans>
+		<ei>1</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+        <waitlist>
+        </waitlist>
+	</prequalified_teams>
+</pnw>
+
+<tx>
+	<capacity>64</capacity>
+	<dcmp_code>ftcmp</dcmp_code>
+	<cmp_slots>38</cmp_slots>
+	<award_slots>
+		<chairmans>3</chairmans>
+		<ei>2</ei>
+		<ras>2</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+            <team>frc148</team>
+        </oas>
+		<ood>
+            <team>frc118</team>
+		</ood>
+		<cmp_award>
+            <team>frc2468</team>
+            <team>frc3847</team>
+		</cmp_award>
+        <waitlist>
+            <team>frc3366</team>
+            <team>frc3735</team>
+            <team>frc5052</team>
+            <team>frc5411</team>
+            <team>frc5754</team>
+            <team>frc6377</team>
+        </waitlist>
+	</prequalified_teams>
+</tx>
+
+<isr>
+	<capacity>36</capacity>
+	<dcmp_code>iscmp</dcmp_code>
+	<cmp_slots>9</cmp_slots>
+	<award_slots>
+		<chairmans>1</chairmans>
+		<ei>1</ei>
+		<ras>1</ras>
+	</award_slots>
+	<prequalified_teams>
+		<hof>
+		</hof>
+        <oas>
+        </oas>
+		<ood>
+		</ood>
+		<cmp_award>
+		</cmp_award>
+    <waitlist>
+    </waitlist>
+	</prequalified_teams>
+</isr>
+
+
+</districts>
